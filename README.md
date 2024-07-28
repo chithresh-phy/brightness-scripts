@@ -1,4 +1,4 @@
-## Brightness scripts
+## System related scripts
 
 Dependencies:
 1. dunst
@@ -6,5 +6,9 @@ Dependencies:
 
 On Ubuntu or Debian:
 ```console
-# apt install dunst brightnessctl
+sudo apt install dunst brightnessctl
 ```
+
+#### Screenshot:
+
+![Screenshot](Screenshot.png)
