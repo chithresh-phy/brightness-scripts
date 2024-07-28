@@ -1,4 +1,4 @@
-## System related scripts
+## Brightness Scripts for Tiling WM's
 
 Dependencies:
 1. dunst
