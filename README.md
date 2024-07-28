@@ -6,7 +6,7 @@ Dependencies:
 
 On Ubuntu or Debian:
 ```console
-sudo apt install dunst brightnessctl
+# apt install dunst brightnessctl
 ```
 
 #### Screenshot:
